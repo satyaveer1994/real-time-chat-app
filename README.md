@@ -28,7 +28,7 @@ This is a real-time chat application that allows users to send and receive messa
 
 1. Clone the repository:
 
-         git clone https://github.com/your-username/real-time-chat-app.git
+     git clone https://github.com/satyaveer1994/real-time-chat-app.git
 
 
 
